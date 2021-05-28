@@ -1,6 +1,6 @@
 # CS369 Web application development HOMEWORK 2
 
-### A website for character infomation from anime Love Live! Nijigasaki Gakuen School Idol Doukoukai.
+### A website for character infomation from anime Love Live! Nijigasaki Gakuen School Idol Doukoukai. using Reactjs and material-ui
 ___
 
 ## How to install
