@@ -1,0 +1,100 @@
+.Deco-logo {
+    position: absolute;
+    margin-top: 50vh;
+    margin-left: 3vw;
+    z-index: 6;
+}
+.Deco-logo img {
+    width: 8vw;
+}
+.Deco-sign {
+    position: absolute;
+    right: 0;
+    margin-top: 38vh;
+}
+.Deco-sign img {
+    width: 21vw;
+}
+
+li {
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(73, 73, 73)
+}
+.showinfoWrap  {
+    background-color: rgb(255, 250, 242);
+    padding: 10px 20px;
+    border-radius: 15px;
+    box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2), 0 1px 8px 0 rgba(0,0,0,0.19);
+}
+.imgWrap {
+    height: 30vh;
+    background-color:rgb(255, 247, 247);
+    border-radius: 15px;
+    box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2), 0 1px 8px 0 rgba(0,0,0,0.19);
+}
+.imgSlide{
+    display: block;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 27vh;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 96%;
+	height: 96%;
+}
+
+.SHOW_ALL {
+    margin-top: 100px;
+    height:72vh;
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2), 0 1px 10px 0 rgba(0,0,0,0.19);
+}
+.SHOW_ALL_BG_1{
+    background-color: #f7f064;
+}
+.SHOW_ALL_BG_2{
+    background-color: #73c9f3;
+}
+.SHOW_ALL_BG_3 {
+    background-color: #9aa3aa;
+}
+.SHOW_ALL_BG_4 {
+    background-color: #1AB486;
+}
+.SHOW_ALL_BG_5 {
+    background-color: #f0939e;
+}
+.SHOW_ALL_BG_6 {
+    background-color: gray;
+}
+.SHOW_ALL_BG_7 {
+    background-color: #e94c53;
+}
+.SHOW_ALL_BG_8 {
+    background-color: #f18f3d;
+}
+.SHOW_ALL_BG_9 {
+    background-color: #b44e8f;
+}
+.SHOW_ALL_BG_10 {
+    background-color: #6cbd61;
+}
+.SHOW_ALL_BG_11 {
+    background-color: #565ea9;
+}
